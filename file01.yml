@@ -1,0 +1,16 @@
+# Sample YAML File
+
+person:
+  name: Aung Nyein Chan Oo
+  age: 32
+  occupation: DevOps Engineer
+
+address:
+  street: 82 Main Street
+  city: Mandalay
+  country: Myanmar
+
+hobbies:
+  - Reading
+  - Cooking
+  - Hiking
