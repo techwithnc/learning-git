@@ -1,3 +1,0 @@
-This is file02.txt
-Created on github.com.
-Thanks.
