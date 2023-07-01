@@ -1,8 +1,13 @@
 edited on remote repo.
 edited on local repo.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 edited again on remote repo.
 =======
 >>>>>>> 247b281 (solve conflicts)
+=======
+
+edited again on local repo.
+>>>>>>> 168749f (edit again on local repo side)
