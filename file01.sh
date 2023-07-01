@@ -7,3 +7,4 @@ name="Aung Nyein Chan Oo"
 
 # Print a message
 echo "Hello, $name!"
+echo "Welcome"
