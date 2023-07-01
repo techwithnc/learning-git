@@ -4,7 +4,8 @@ person:
   name: Aung Nyein Chan Oo
   age: 32
   occupation: DevOps Engineer
-
+contact:
+  email: aungnyeinchanoo@outlook.com
 address:
   street: 82 Main Street
   city: Mandalay
