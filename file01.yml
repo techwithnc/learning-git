@@ -1,7 +1,7 @@
 # Sample YAML File
 
 person:
-  name: Aung Nyein Chan Oo
+  name: aungnyeinchanoo
   age: 32
   occupation: DevOps Engineer
 contact:
