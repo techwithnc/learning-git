@@ -3,7 +3,7 @@
 person:
   name: aungnyeinchanoo
   age: 32
-  occupation: DevOps Engineer
+  occupation: 'devops engineer'
 contact:
   email: aungnyeinchanoo@outlook.com
 address:
