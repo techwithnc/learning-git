@@ -1,2 +1,1 @@
-This version is for new feature of login.txt file.
-edited by anco.
+hello,this is new version
